@@ -1,10 +1,10 @@
 <h2>Hey 👋, I'm Nadeem Abdul Razak Gulam</h2>
 
-I'm currently working as an Intern at CadenceIQ. I am working on some side projects and learning cloud.
+I am working on some side projects and learning cloud.
 
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-Manish%20Singh-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:Nadeem10shagulam@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Manish%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-gulam/)
+[![Gmail Badge](https://img.shields.io/badge/-Nadeem%20Gulam-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:Nadeem10shagulam@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Nadeem%20Gulam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-gulam/)
 
 <ul>
 <li>🧐 I am currently learning about <strong>serverless architectures</strong> and <strong>containerization tools</strong>.</li>
