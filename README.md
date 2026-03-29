@@ -66,15 +66,24 @@ I am working on some side projects and learning cloud.
 
 <br/>
 
-<img align="left" alt="Nadeem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NadeemGulam&show_icons=true&theme=tokyonight" />
+<!-- Stats Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadeemGulam&theme=tokyonight" alt="Nadeem's Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NadeemGulam&theme=tokyonight" alt="Top Languages by Repo" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NadeemGulam&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<img alt="Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemGulam&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
+<!-- Full Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NadeemGulam&theme=tokyonight" alt="Nadeem's Profile Summary" />
+</p>
 
 <br/>
 
 <details>
   <summary>💻 More Stats</summary>
+  <br/>
   <img alt="Nadeem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemGulam&theme=react-dark" />
 </details>
